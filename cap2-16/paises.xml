@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<pais>
+    <nome>Brasil</nome>
+    <idioma>Português</idioma>
+    <religiao>Católica</religiao>
+    <moeda>Real (R$)</moeda>
+    <populacao>190.000.000</populacao>
+    
+</pais>

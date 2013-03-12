@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<pais>
+    <nome>Brasil</nome>
+    <idioma>Português</idioma>
+    <capital>Brasília</capital>
+    <religiao>Cristianismo</religiao>
+    <moeda>Real (R$)</moeda>
+    <populacao>190.000.000</populacao>
+    <geografia>
+        <clima>Temperado</clima>
+        <costa>7367 km</costa>
+        <pico>Neblina (3014m)</pico>
+    </geografia>
+    <estados>
+        <estado nome="Rio Grande do Sul" capital="Porto Alegre"/>
+        <estado nome="São Paulo" capital="São Paulo"/> 
+        <estado nome="Minas Gerais" capital="Belo Horizonte"/>
+        <estado nome="Rio de Janeiro" capital="Rio de Janeiro"/>
+        <estado nome="Paraná" capital="Curitiba"/>
+        <estado nome="Mato Grosso" capital="Cuiabá"/>
+    </estados>
+</pais>
